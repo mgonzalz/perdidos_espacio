@@ -9,7 +9,7 @@ Usuario: @mgonzalz
 - Ayuda: Carpeta con la ayuda proporcionada.</br>
 - Data: Carpeta que contiene los distintos csv creados a partir de los archivos .ipynb.</br>
 - Enunciado: Carpeta que contiene el pdf con el enunciado del ejercicio.</br>
-- Perdidos_no_faker: Archivo .ipynb que contiene la resolución del ejercicio sin la utilización de faker para la falsificación de datos.</br>
+- Perdidos_espacio: Archivo .ipynb que contiene la resolución del ejercicio.</br>
 
 
 ## Enunciado
