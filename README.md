@@ -10,7 +10,6 @@ Usuario: @mgonzalz
 - Data: Carpeta que contiene los distintos csv creados a partir de los archivos .ipynb.</br>
 - Enunciado: Carpeta que contiene el pdf con el enunciado del ejercicio.</br>
 - Perdidos_no_faker: Archivo .ipynb que contiene la resolución del ejercicio sin la utilización de faker para la falsificación de datos.</br>
-- Perdidos_faker: Archivo .ipynb que contiene la resolución del ejercicio con Faker. </br>
 
 
 ## Enunciado
@@ -39,7 +38,7 @@ planetas del sistema solar:</br>
 - Marte: 3.7</br>
 - Júpiter: 24.8</br>
 - Saturno: 9.0</br>
-- Urano:8.7</br>
+- Urano: 8.7</br>
 - Neptuno: 11.0</br>
 
 
